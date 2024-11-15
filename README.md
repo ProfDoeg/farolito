@@ -1,0 +1,2 @@
+# farolito
+Farolito documento
